@@ -30,11 +30,6 @@ Run your code within Code Wizard to see the results instantly. No need to switch
 ## Code Execution
 ![Screenshot 5](Frontend/Screenshots/Screenshot%20(124).png)
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 
 If you have any questions or encounter any issues while using Code Wizard,  feel free to contact me at mmehra851@gmail.com. Code and Learn.
